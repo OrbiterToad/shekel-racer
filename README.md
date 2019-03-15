@@ -1,1 +1,1 @@
-# race-snake
+# shekel-racer
